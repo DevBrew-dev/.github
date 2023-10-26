@@ -19,4 +19,4 @@ Come back soon!
 
 ## Contributing :hammer_and_wrench:
 
-Interested in contributing? Check out the [CONTRIBUTING.md](CONTRIBUTING.md) file to know how you can be a part of this journey.
+Interested in contributing? Check out the [CONTRIBUTING.md](./CONTRIBUTING.md) file to know how you can be a part of this journey.
